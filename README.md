@@ -1,3 +1,3 @@
 # Rouzbehani_668_bioinformatics_project
-## RNA_Seq
+## QIIME 2
 ## Machine Learning
